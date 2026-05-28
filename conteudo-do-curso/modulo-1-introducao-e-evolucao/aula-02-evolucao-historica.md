@@ -79,4 +79,19 @@ O sistema **UNIX** introduziu conceitos de portabilidade e modularidade que fund
 
 ## 📚 Referências
 - TANENBAUM, A.; BOS, H. **Sistemas Operacionais Modernos**.
-- Slides: Evolução Histórica dos SO.
+
+---
+
+## ✍️ Questões de Fixação (Aula 02)
+
+1. **Qual a principal diferença entre a 1ª e a 2ª geração de computadores em termos de hardware?**
+   - *Resposta:* A substituição das válvulas eletrônicas pelos transistores, que eram menores, mais rápidos e consumiam menos energia.
+
+2. **O que era o processamento em lote (Batch) e qual sua principal limitação?**
+   - *Resposta:* Era a execução sequencial de programas agrupados. A principal limitação era a falta de interatividade com o usuário.
+
+3. **Como a multiprogramação da 3ª geração melhorou a eficiência da CPU?**
+   - *Resposta:* Ela permitia que a CPU executasse outro programa enquanto o atual aguardava uma operação de entrada ou saída, reduzindo o tempo de ociosidade.
+
+4. **Qual a influência do sistema UNIX nos sistemas operacionais modernos?**
+   - *Resposta:* O UNIX introduziu conceitos de modularidade e portabilidade que serviram de base para o Linux, macOS e Android.
