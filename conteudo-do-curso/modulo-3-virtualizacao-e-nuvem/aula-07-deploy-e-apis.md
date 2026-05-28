@@ -9,8 +9,8 @@ Nesta aula, unimos os conceitos de backend, APIs REST e infraestrutura de nuvem 
 Uma **API REST (Representational State Transfer)** é um conjunto de regras que permite que dois sistemas se comuniquem via protocolo HTTP.
 
 ### Ferramentas Utilizadas:
-- **Node.js:** Ambiente de execução JavaScript no servidor.
-- **Express.js:** Framework minimalista para criar rotas e gerenciar requisições HTTP.
+- **Node.js:** Ambiente de execução JavaScript no servidor. [Documentação Oficial](https://nodejs.org/docs/)
+- **Express.js:** Framework minimalista para criar rotas e gerenciar requisições HTTP. [Documentação Express](https://expressjs.com/)
 - **CORS (Cross-Origin Resource Sharing):** Mecanismo de segurança que permite que o frontend (em um domínio) acesse o backend (em outro domínio).
 
 ### Fluxo de Requisição:
