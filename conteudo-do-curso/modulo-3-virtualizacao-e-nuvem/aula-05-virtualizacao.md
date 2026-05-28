@@ -13,6 +13,10 @@ Em termos simples, a virtualização cria uma camada de abstração entre o hard
 - **Guest (Convidado):** A máquina virtual (VM) que roda dentro do host.
 - **Hypervisor (VMM - Virtual Machine Monitor):** O software responsável por criar, gerenciar e alocar recursos para as VMs.
 
+#### 🔍 Tipos de Hypervisors:
+- **Tipo 1 (Bare Metal):** Instalado diretamente no hardware físico. Possui maior desempenho e segurança. (Ex: VMware ESXi, Microsoft Hyper-V).
+- **Tipo 2 (Hosted):** Instalado como um aplicativo sobre um SO já existente. É ideal para testes e aprendizado. (Ex: Oracle VirtualBox, VMware Workstation).
+
 ---
 
 ## ✅ Vantagens da Virtualização
