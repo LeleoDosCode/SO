@@ -58,6 +58,8 @@ Para garantir a integridade dos dados e a estabilidade do sistema:
 
 ---
 
-## 🏁 5. Conclusão
+## 🏁 5. Conclusão e Reflexões Finais
 
-A transformação da DevStore de um ambiente manual para um ambiente **automatizado, escalável e seguro** permitirá que a startup foque no desenvolvimento de produtos, delegando a complexidade da gestão de hardware e sistema operacional para a infraestrutura de nuvem e containerização.
+A modernização da DevStore não é apenas uma troca de ferramentas, mas uma mudança de paradigma operacional. Ao migrar de um modelo manual para um ambiente **automatizado, escalável e seguro**, a startup resolve a dívida técnica de infraestrutura.
+
+A aplicação de conceitos de Sistemas Operacionais — como o isolamento de processos via containers e a abstração de hardware via nuvem — garante que a empresa possa crescer sem que a complexidade do SO se torne um impedimento. O resultado final é um ecossistema onde a estabilidade do Kernel e a eficiência da virtualização suportam a agilidade do negócio.
