@@ -28,11 +28,11 @@ A nuvem baseia-se em hypervisors massivos que gerenciam milhares de VMs em clust
 
 ### Modelos de Serviço (SPI)
 
-| Modelo | Nome | Descrição | Exemplo |
-| :--- | :--- | :--- | :--- |
-| **IaaS** | Infrastructure as a Service | O provedor dá o hardware virtual. Você instala o SO, configura a rede e as apps. | AWS EC2, Azure VM |
-| **PaaS** | Platform as a Service | O provedor gerencia o SO e o runtime. Você apenas envia o código da aplicação. | Render, Heroku, Vercel |
-| **SaaS** | Software as a Service | O software é entregue pronto via navegador. Você não gerencia nada da infra. | Google Workspace, Netflix |
+| Modelo | Nome | Descrição | Exemplos | Responsabilidade do Cliente |
+| :--- | :--- | :--- | :--- | :--- |
+| **IaaS** | Infrastructure as a Service | Hardware virtualizado (CPU, RAM, Disco) | AWS EC2, Azure VM, GCP Compute Engine | SO, Middleware, Apps, Dados |
+| **PaaS** | Platform as a Service | Plataforma para desenvolvimento e deploy | Render, Heroku, Vercel, Google App Engine | Aplicação e Dados |
+| **SaaS** | Software as a Service | Software pronto via navegador | Google Workspace, Netflix, Salesforce | Apenas Configurações de Uso |
 
 ---
 
