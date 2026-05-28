@@ -106,4 +106,12 @@ $\text{Nota Final} = (P_1 \times 0,25) + (P_2 \times 0,25) + ((PJ + AT) \times 0
 - TANENBAUM, A. S.; BOS, H. **Sistemas Operacionais Modernos**, 2016.
 - SILBERSCHATZ, A. et al. **Fundamentos de Sistemas Operacionais**, 2015.
 - STALLINGS, W. **Sistemas Operacionais: Conceitos e Projetos**, 2015.
-- DENARDIN, G. W.; BARRIQUELLO, C. H., 2014.
+
+---
+
+## 📖 Glossário Técnico (Aula 01)
+
+- **Throughput:** Quantidade de trabalho realizado por unidade de tempo.
+- **Quantum:** Intervalo de tempo fixo concedido a cada processo no escalonamento Round Robin.
+- **Interrupção:** Sinal enviado pelo hardware ao processador para solicitar atenção imediata.
+- **SFC (Sistemas de Arquivos):** A maneira como o SO organiza e armazena dados no disco.
