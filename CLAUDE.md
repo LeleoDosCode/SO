@@ -4,9 +4,9 @@
 Documentar de forma profissional e organizada o conteúdo da disciplina de Sistemas Operacionais, unindo teoria e prática.
 
 ## 🏗️ Arquitetura de Pastas
-- `course-content/`: Teoria dividida por módulos.
-- `exercises/`: Laboratórios e estudos de caso.
-- `docs/`: Recursos externos e referências.
+- `conteudo-do-curso/`: Teoria dividida por módulos.
+- `exercicios/`: Laboratórios e estudos de caso.
+- `documentos/`: Recursos externos e referências.
 
 ## ✍️ Padrões de Documentação
 - **Linguagem:** Português do Brasil.

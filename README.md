@@ -1,41 +1,49 @@
-# 🖥️ Sistemas Operacionais — FATEC Itapetininga
+# 🖥️ Sistemas Operacionais — Repositório de Estudos
 
-![FATEC](https://img.shields.io/badge/FATEC-Itapetininga-red)
-![Disciplina](https://img.shields.io/badge/Disciplina-Sistemas%20Operacionais-green)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-brightgreen)
-![Deploy](https://img.shields.io/badge/Deploy-Render-blue)
+Este repositório é dedicado à documentação completa da disciplina de **Sistemas Operacionais**. Aqui, a teoria é integrada com a prática, transformando anotações de aula em um portfólio técnico de engenharia de software.
 
-Este repositório contém resumos, atividades, projetos e materiais desenvolvidos durante as aulas da disciplina de Sistemas Operacionais no 3º semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC Itapetininga.
+## 🚀 Organização do Conhecimento
 
-## 📚 Disciplina
+O repositório foi estruturado para facilitar a navegação entre a base teórica e a aplicação prática:
 
-- Sistemas Operacionais
-- Professor: Deivison Takatu
+### 📂 Estrutura de Diretórios
 
-## 🎯 Conteúdo do Repositório
-
-As pastas presentes neste repositório incluem:
-
-- 📄 Resumos das aulas;
-- 📝 Atividades acadêmicas;
-- 💻 Projetos desenvolvidos em aula;
-- ☁️ Exercícios envolvendo computação em nuvem;
-- ⚙️ Estudos sobre processos, memória e gerenciamento de sistemas;
-- 🚀 APIs REST utilizando Node.js e Express;
-- 🌐 Deploy de aplicações utilizando Render e Railway.
-
-## 🛠️ Tecnologias Utilizadas
-
-- Node.js
-- Express.js
-- GitHub
-- Render
-- Markdown
-
-## 🎓 Instituição
-
-FATEC Itapetininga — Faculdade de Tecnologia de Itapetininga
+- **`conteudo-do-curso/`**: Teoria detalhada, organizada por módulos.
+  - **Módulo 1: Introdução e Evolução**: Fundamentos e história dos SOs.
+  - **Módulo 2: Estrutura e Fundamentos**: Arquitetura de Kernels e gerenciamento de processos.
+  - **Módulo 3: Virtualização e Nuvem**: Hipervisores, Cloud Computing e Docker.
+- **`exercicios/`**: Laboratórios práticos e estudos de caso implementados.
+- **`documentos/`**: Materiais de referência, glossários e bibliografias.
 
 ---
 
-📌 Repositório desenvolvido para fins acadêmicos e de aprendizagem.
+## 🎓 Trilhas de Aprendizado
+
+### 🛠️ Base Teórica
+Exploração profunda sobre como o sistema operacional atua como intermediário entre o hardware e o usuário, abordando temas como:
+- Escalonamento de CPU (FIFO, Round Robin).
+- Gerenciamento de Memória Virtual e Paginação.
+- Modos de Execução (Kernel vs Usuário).
+
+### 🧪 Aplicação Prática
+Implementação de conceitos reais através de:
+- **Virtualização:** Setup de sistemas legados (Windows 95) via Oracle VirtualBox.
+- **Infraestrutura:** Projeto de modernização de servidores para a startup *DevStore*.
+- **Cloud:** Desenvolvimento de APIs de monitoramento com Node.js e deploy em PaaS (Render/Vercel).
+
+---
+
+## 🛠️ Stack Tecnológica
+
+- **Documentação:** Markdown.
+- **Runtime:** Node.js.
+- **Frameworks:** Express.js.
+- **Virtualização:** Docker, VirtualBox.
+- **Nuvem:** AWS, Render, Vercel.
+- **Versionamento:** Git & GitHub (Git Flow).
+
+---
+
+## 📝 Metodologia de Estudo
+
+Este repositório não é apenas um repositório de arquivos, mas um registro de evolução. Cada módulo é revisado e expandido, correlacionando a teoria de autores como **Tanenbaum** e **Silberschatz** com as demandas reais do mercado de tecnologia.
