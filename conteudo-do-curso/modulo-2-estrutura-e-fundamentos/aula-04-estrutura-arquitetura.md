@@ -25,6 +25,11 @@ O Kernel é a única parte do sistema com privilégios totais de hardware. Ele �
 - **Sincronização:** Gerenciar locks e semáforos para evitar condições de corrida.
 - **Interrupções:** Responder a sinais do hardware (ex: um clique no mouse).
 
+### 🔍 Tipos de Kernel (Aprofundamento)
+- **Monolítico:** Todo o sistema (drivers, sistema de arquivos, rede) roda no mesmo espaço de memória. É extremamente rápido, mas se um driver falha, o sistema todo pode travar (ex: Linux).
+- **Microkernel:** Apenas as funções essenciais rodam no núcleo; drivers e outros serviços rodam como processos de usuário. É mais estável e seguro, porém ligeiramente mais lento devido à comunicação entre processos (ex: QNX, L4).
+- **Híbrido:** Combina a velocidade do monolítico com a modularidade do microkernel (ex: Windows NT).
+
 ---
 
 ## 🔐 Modos de Execução e Segurança
