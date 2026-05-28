@@ -9,9 +9,12 @@ Nesta aula, aprofundamos a definição de Sistema Operacional, explorando suas f
 O SO é o software que gerencia o hardware e fornece serviços para os programas de aplicação. Sua principal função é **abstrair a complexidade do hardware**, permitindo que o programador escreva código sem se preocup same de como cada bit é gravado no disco ou como cada sinal elétrico viaja pela CPU.
 
 ### Funções Principais:
-- **Gerenciador de Recursos:** Aloca CPU, memória, disco e periféricos.
-- **Controlador de Dispositivos:** Gerencia a comunicação com o hardware via drivers.
-- **Provedor de Serviços:** Oferece APIs (System Calls) para que as aplicações realizem operações básicas.
+
+| Função | Responsabilidade | Exemplo de Ação |
+| :--- | :--- | :--- |
+| **Gerenciador de Recursos** | Alocação de hardware | Atribuir 2GB de RAM para o Chrome |
+| **Controlador de Dispositivos** | Comunicação via drivers | Traduzir cliques do mouse para o sistema |
+| **Provedor de Serviços** | APIs e System Calls | Abrir e salvar um arquivo de texto |
 
 ---
 
